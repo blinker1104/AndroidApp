@@ -1,0 +1,4 @@
+#Sun Oct 21 21:01:54 PDT 2018
+base.0=C\:\\Users\\BJoon\\Documents\\GitHub\\AppTesting\\viewport_Sample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
